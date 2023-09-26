@@ -1,5 +1,5 @@
 # csv-concat-tool
-A simple python file which combines all csv files in the current working directory to one csv files.
+A simple python file which combines all csv files in the current working directory to one csv file.
 
 It is meant for files which are structured the same way (and have the same amount of columns).
 
